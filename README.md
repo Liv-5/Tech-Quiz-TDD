@@ -25,9 +25,9 @@
 
 ![Kanban Ticket](/Kanban-Clarity/assets/KanbanTicketSS.PNG) -->
 
-<img src="./assets/KanbanLoginSS.PNG" alt="Kanban Login page">
+<!-- <img src="./assets/KanbanLoginSS.PNG" alt="Kanban Login page">
 <img src="./assets/KanbanPageSS.PNG" alt="Kanban board page">
-<img src="./assets/KanbanTicketSS.PNG" alt="Kanban ticket page">
+<img src="./assets/KanbanTicketSS.PNG" alt="Kanban ticket page"> -->
 
 ## Deployed Webpage
 

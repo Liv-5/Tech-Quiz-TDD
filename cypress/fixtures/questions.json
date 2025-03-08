@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "24",
+    "question": "Hows your day?",
+    "answers": [
+      {
+        "text": "good",
+        "isCorrect": true
+      },
+      {
+        "text": "good",
+        "isCorrect": true
+      },
+      {
+        "text": "good",
+        "isCorrect": true
+      },
+      {
+        "text": "good",
+        "isCorrect": true
+      }
+    ]
+  }
+]
