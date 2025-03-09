@@ -4,6 +4,8 @@
 
 ## Description
 
+This project uses cypress to apply test driven development to check if the page is rendering and functioning as intended.
+
 ## Table of Contents
 
 - [GitHub Repository](#github-repository)
@@ -15,7 +17,7 @@
 
 ## Github Repository
 
-[GitHub Repository](https://github.com/Liv-5/Kanban-Clarity)
+[GitHub Repository](https://github.com/Liv-5/Tech-Quiz-TDD)
 
 ## Preview
 
@@ -29,11 +31,13 @@
 <img src="./assets/KanbanPageSS.PNG" alt="Kanban board page">
 <img src="./assets/KanbanTicketSS.PNG" alt="Kanban ticket page"> -->
 
-## Deployed Webpage
+<!-- ## Deployed Webpage -->
 
-[Deployed Link]()
+[Video Demo Link]()
 
 ## Credits
+
+Help from my class instructor and TAs and tutors was much appreciated!
 
 ## License
 
